@@ -1,0 +1,4 @@
+Stackoverflow.com: for questions.
+jsfiddle.net: share working web code for debug and testing.
+codepen.io: featured web app solutions
+ccstricks.com
