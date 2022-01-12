@@ -2,3 +2,9 @@ Stackoverflow.com: for questions.
 jsfiddle.net: share working web code for debug and testing.
 codepen.io: featured web app solutions
 ccstricks.com
+caniuse.com: keeps track of html standards and which broswer support them
+validator.w3.org check for valid html page
+w3schools.com: check browsers are in use
+
+
+
