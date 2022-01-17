@@ -5,6 +5,7 @@ ccstricks.com
 caniuse.com: keeps track of html standards and which broswer support them
 validator.w3.org check for valid html page
 w3schools.com: check browsers are in use
+http://www.csszengarden.com/: check out css examples
 
 
 

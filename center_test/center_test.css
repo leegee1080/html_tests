@@ -1,5 +1,55 @@
 p {
+    text-align: center;
     width: 60%;
     margin: auto;
+    font-size: medium;
     font: sans-serif;
+    color: blue;
   }  
+
+h1{
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  font-size: x-large;
+  font: sans-serif;
+  color: rgb(102, 255, 0);
+}
+
+.testclass{
+  color: aquamarine;
+}
+
+#testselector:hover{
+  color: rgb(165, 98, 11);
+  
+}
+
+h2, .testclass{
+  color: rgb(243, 227, 0);
+}
+
+.listtest li{
+  list-style-type: none;
+}
+
+a:link, a:visited{
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  background-color: black;
+  color: aliceblue;
+  border:1px solid rgb(165, 98, 11);
+  width: 200px;
+  margin-bottom:  10px;
+}
+
+a:hover, a:active
+{
+  background-color: rgb(243, 227, 0);
+  color: black;
+}
+
+.listtest li:nth-child(3){
+  font-size: xx-small;
+}
